@@ -113,3 +113,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /DobotDll.dll
+/DobotDll.h
+/DobotDllType.py
+/msvcp120.dll
+/msvcr120.dll
+/Qt5Core.dll
+/Qt5Network.dll
+/Qt5SerialPort.dll
